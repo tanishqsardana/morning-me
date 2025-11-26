@@ -1,0 +1,10 @@
+{
+  "name": "Tanishq",
+  "city": "New York, NY",
+  "wake_hour": 9,
+  "diet": "non vegetarian",
+  "dress_code": "smart-casual",
+  "interests": ["tech meetups", "live jazz", "sports","museums","pop ups"],
+  "travel_buffer_min": 35
+}
+

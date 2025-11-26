@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": [
+        "-m",
+        "mcp_weather_server"
+      ],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
