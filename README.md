@@ -2,6 +2,8 @@
 
 A personalized morning planning assistant that integrates your calendar, weather forecasts, and local events to help you start your day right. Built with Open WebUI and powered by custom MCP (Model Context Protocol) servers.
 
+Youtube Link - https://youtu.be/yZxSTWwz3dQ
+
 ## 🌟 Features
 
 - **Morning Briefings**: Get a concise daily overview with your schedule, weather, and outfit suggestions
