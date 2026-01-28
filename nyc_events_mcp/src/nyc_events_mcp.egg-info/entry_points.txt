@@ -1,0 +1,2 @@
+[console_scripts]
+nyc-events-mcp = nyc_events_mcp.server:main

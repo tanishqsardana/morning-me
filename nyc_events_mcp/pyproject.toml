@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nyc-events-mcp"
+version = "0.1.0"
+description = "MCP server for querying NYC events database"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp",
+    "starlette",
+    "uvicorn"
+]
+
+[project.scripts]
+nyc-events-mcp = "nyc_events_mcp.server:main"
+
+

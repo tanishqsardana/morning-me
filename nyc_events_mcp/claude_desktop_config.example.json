@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "nyc-events": {
+      "command": "python",
+      "args": [
+        "-m",
+        "nyc_events_mcp.server"
+      ],
+      "cwd": "/Users/tanishqsardana/Desktop/Codes/morning_me",
+      "env": {
+        "PYTHONPATH": "/Users/tanishqsardana/Desktop/Codes/morning_me/nyc_events_mcp/src"
+      }
+    },
+    "google-calendar": {
+      "command": "node",
+      "args": [
+        "/Users/tanishqsardana/Desktop/Codes/morning_me/google-calendar-mcp/build/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
+
+
+

@@ -1,0 +1,16 @@
+event_id,title,category,date,start_time_local,end_time_local,venue_name,latitude,longitude,description
+a216e65e-7ad8-4fcc-ba34-f05ead54386a,Live Set @ Bowery Ballroom,music,2026-01-28,2026-01-28T19:00:00,2026-01-28T22:00:00,Bowery Ballroom,40.7216,-73.9935,Synthetic music event in NYC for calendar alignment.
+46f07bf0-2bfa-4bea-a208-1c25675a3fab,Gallery Spotlight @ MoMA,museum,2026-01-28,2026-01-28T13:00:00,2026-01-28T16:00:00,MoMA,40.7614,-73.9776,Synthetic museum event in NYC for calendar alignment.
+5170ad9f-d666-40c5-a50c-bff6e8fe3102,Limited-Time Pop-Up @ Chelsea Market,pop-ups,2026-01-28,2026-01-28T12:00:00,2026-01-28T15:00:00,Chelsea Market,40.7424,-74.0061,Synthetic pop-ups event in NYC for calendar alignment.
+ca8144f7-3c76-41a7-9674-77a90f093edd,Game Watch Party @ Stout NYC,football,2026-01-28,2026-01-28T20:00:00,2026-01-28T23:00:00,Stout NYC,40.7506,-73.9916,Synthetic football event in NYC for calendar alignment.
+c12b94fa-0228-4908-a869-ef17d91610f5,Feature Screening @ AMC Lincoln Square 13,movies,2026-01-28,2026-01-28T18:00:00,2026-01-28T20:00:00,AMC Lincoln Square 13,40.7742,-73.9822,Synthetic movies event in NYC for calendar alignment.
+74c9bdc7-34bb-4624-9a5b-474123d176ec,Live Set @ Brooklyn Steel,music,2026-01-29,2026-01-29T19:00:00,2026-01-29T22:00:00,Brooklyn Steel,40.719,-73.9375,Synthetic music event in NYC for calendar alignment.
+978f2c7f-b374-4119-8cbe-ac78f0d2d831,Gallery Spotlight @ The Met,museum,2026-01-29,2026-01-29T13:00:00,2026-01-29T16:00:00,The Met,40.7794,-73.9632,Synthetic museum event in NYC for calendar alignment.
+733ff343-fcea-4144-a052-67783c9bdf53,Limited-Time Pop-Up @ Industry City,pop-ups,2026-01-29,2026-01-29T12:00:00,2026-01-29T15:00:00,Industry City,40.6579,-74.0076,Synthetic pop-ups event in NYC for calendar alignment.
+d5901bdd-a0d2-489f-98a5-5c9c42d63f94,Game Watch Party @ The Ainsworth,football,2026-01-29,2026-01-29T20:00:00,2026-01-29T23:00:00,The Ainsworth,40.7455,-73.998,Synthetic football event in NYC for calendar alignment.
+562c46eb-2144-4cd0-9344-deef0f830faf,Feature Screening @ AMC Empire 25,movies,2026-01-29,2026-01-29T18:00:00,2026-01-29T20:00:00,AMC Empire 25,40.7563,-73.9893,Synthetic movies event in NYC for calendar alignment.
+5eea4e47-1b85-45ff-b207-51a3b7e7f709,Live Set @ Apollo Theater,music,2026-01-30,2026-01-30T19:00:00,2026-01-30T22:00:00,Apollo Theater,40.81,-73.9492,Synthetic music event in NYC for calendar alignment.
+df4698df-04f6-48aa-9a49-2c419a979ef2,Gallery Spotlight @ Whitney Museum,museum,2026-01-30,2026-01-30T13:00:00,2026-01-30T16:00:00,Whitney Museum,40.7396,-74.0089,Synthetic museum event in NYC for calendar alignment.
+ef948df0-1818-4f0e-bfa4-6b8249e12693,Limited-Time Pop-Up @ Brookfield Place,pop-ups,2026-01-30,2026-01-30T12:00:00,2026-01-30T15:00:00,Brookfield Place,40.713,-74.0158,Synthetic pop-ups event in NYC for calendar alignment.
+1ec9caf3-c62f-4483-aba4-31ad7f5f7885,Game Watch Party @ Taproom No.307,football,2026-01-30,2026-01-30T20:00:00,2026-01-30T23:00:00,Taproom No.307,40.7397,-73.9826,Synthetic football event in NYC for calendar alignment.
+d3b7e4cd-de6c-4e0f-89ea-1e924a302e09,Feature Screening @ Alamo Drafthouse,movies,2026-01-30,2026-01-30T18:00:00,2026-01-30T20:00:00,Alamo Drafthouse,40.6913,-73.9893,Synthetic movies event in NYC for calendar alignment.
